@@ -1,10 +1,10 @@
 # MagicaVoxel @ Ephtracy
 
 # group
-g Vase
+g Vase 2
 
 # material
-mtllib Vase.mtl
+mtllib Vase 2.mtl
 usemtl palette
 
 # normals
@@ -16,7 +16,7 @@ vn 0 -1 0
 vn 0 1 0
 
 # texcoords
-vt 0.755859 0.5
+vt 0.849609 0.5
 
 # verts
 v -11 12 3
