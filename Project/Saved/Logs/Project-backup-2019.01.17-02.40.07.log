@@ -1,0 +1,1079 @@
+﻿Log file open, 01/16/19 19:30:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.277606
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.064s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Engines/Unreal/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.17-00.30.56:649][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.17-00.30.56:649][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.17-00.30.56:649][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Engine.ini]
+[2019.01.17-00.30.56:649][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.17-00.30.56:649][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.01.17-00.30.56:649][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Engine.ini]
+[2019.01.17-00.30.56:649][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Engine.ini]
+[2019.01.17-00.30.56:649][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.17-00.30.56:649][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.17-00.30.56:649][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.17-00.30.56:649][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.17-00.30.56:649][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.17-00.30.56:649][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.17-00.30.56:649][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.17-00.30.56:649][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.17-00.30.56:649][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.17-00.30.56:649][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.17-00.30.56:649][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Engine.ini]
+[2019.01.17-00.30.56:650][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.17-00.30.56:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Engine.ini]
+[2019.01.17-00.30.56:650][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Engine.ini]
+[2019.01.17-00.30.56:652][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.17-00.30.56:652][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.17-00.30.56:652][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.17-00.30.56:652][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.17-00.30.56:652][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.17-00.30.56:652][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.17-00.30.56:652][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.17-00.30.56:652][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.17-00.30.56:652][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.17-00.30.56:652][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.17-00.30.56:652][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.17-00.30.56:652][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.17-00.30.56:652][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.17-00.30.56:652][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.17-00.30.56:652][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.17-00.30.56:652][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.17-00.30.56:652][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.17-00.30.56:653][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.17-00.30.56:653][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.17-00.30.56:653][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.17-00.30.56:661][  0]LogHAL: Display: Platform has ~ 32 GB [34226597888 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.17-00.30.56:661][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.17-00.30.56:661][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.17-00.30.56:661][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.17-00.30.56:661][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.17-00.30.56:661][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.17-00.30.56:661][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.17-00.30.56:662][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.17-00.30.56:663][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.17-00.30.56:663][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.17-00.30.56:663][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Config/Windows/Engine.ini]
+[2019.01.17-00.30.56:663][  0]LogInit: Computer: DESKTOP-MGB6515
+[2019.01.17-00.30.56:663][  0]LogInit: User: johna
+[2019.01.17-00.30.56:663][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.17-00.30.56:663][  0]LogInit: High frequency timer resolution =2.742186 MHz
+[2019.01.17-00.30.56:663][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.01.17-00.30.56:663][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.17-00.30.56:663][  0]LogMemory: Process Physical Memory: 103.79 MB used, 103.79 MB peak
+[2019.01.17-00.30.56:663][  0]LogMemory: Process Virtual Memory: 93.51 MB used, 93.51 MB peak
+[2019.01.17-00.30.56:663][  0]LogMemory: Physical Memory: 8381.99 MB used,  24259.04 MB free, 32641.03 MB total
+[2019.01.17-00.30.56:663][  0]LogMemory: Virtual Memory: 4654.75 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.01.17-00.30.56:989][  0]LogInit: Using OS detected language (en-US).
+[2019.01.17-00.30.56:989][  0]LogInit: Using OS detected locale (en-CA).
+[2019.01.17-00.30.56:989][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.17-00.30.57:343][  0]LogStreaming: Display: Took  0.354s to InitEngineTextLocalization.
+[2019.01.17-00.30.57:343][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.17-00.30.57:380][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.17-00.30.57:380][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.17-00.30.57:593][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.17-00.30.57:593][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.17-00.30.57:657][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.01.17-00.30.57:657][  0]LogD3D11RHI:       8089/0/16320 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.17-00.30.57:667][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.01.17-00.30.57:667][  0]LogD3D11RHI:       128/0/16320 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.17-00.30.57:669][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.17-00.30.57:669][  0]LogD3D11RHI:       0/0/16320 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.17-00.30.57:669][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.17-00.30.57:704][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.17-00.30.57:704][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.17-00.30.57:704][  0]LogWindows: EnumDisplayDevices:
+[2019.01.17-00.30.57:704][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.01.17-00.30.57:705][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.17-00.30.57:705][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.17-00.30.57:705][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.17-00.30.57:705][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.17-00.30.57:706][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.17-00.30.57:706][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.17-00.30.57:706][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.01.17-00.30.57:706][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.01.17-00.30.57:706][  0]LogD3D11RHI:   Driver Version: 389.12 (internal:23.21.13.8912, unified:389.12)
+[2019.01.17-00.30.57:706][  0]LogD3D11RHI:      Driver Date: 3-7-2018
+[2019.01.17-00.30.57:706][  0]LogRHI: Texture pool is 5662 MB (70% of 8089 MB)
+[2019.01.17-00.30.57:743][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.17-00.30.58:176][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.01.17-00.30.58:486][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.17-00.30.58:497][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.17-00.30.58:508][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.17-00.30.58:520][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.17-00.30.58:531][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.17-00.30.58:543][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.17-00.30.58:554][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.17-00.30.58:565][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.17-00.30.58:570][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-00.30.58:639][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.17-00.30.58:696][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.17-00.30.58:696][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.17-00.30.58:718][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.17-00.30.58:718][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.17-00.30.58:730][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.17-00.30.58:741][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.17-00.30.58:752][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.17-00.30.58:764][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.17-00.30.58:804][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.17-00.30.58:804][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.17-00.30.58:804][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.17-00.30.58:843][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Intermediate/Shaders/WorkingDirectory/39096/).
+[2019.01.17-00.30.58:843][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/johna/AppData/Local/Temp/UnrealShaderWorkingDir/17833DA448EBCED02361DEAA20277867/'.
+[2019.01.17-00.30.58:844][  0]LogXGEController: Cleaning working directory: C:/Users/johna/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.17-00.30.58:844][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.17-00.30.58:844][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.17-00.30.58:844][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.17-00.30.59:349][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.17-00.30.59:399][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/johna/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.17-00.30.59:399][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/johna/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.17-00.30.59:399][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.17-00.30.59:399][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.17-00.30.59:399][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.17-00.30.59:399][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.17-00.30.59:412][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.17-00.30.59:412][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.17-00.30.59:412][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.17-00.30.59:425][  0]LogDerivedDataCache: Using Local data cache path C:/Users/johna/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.17-00.30.59:425][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.17-00.30.59:425][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.17-00.30.59:448][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.17-00.30.59:450][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.17-00.30.59:450][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.17-00.30.59:537][  0]LogAssetRegistry: FAssetRegistry took 0.0326 seconds to start up
+[2019.01.17-00.30.59:838][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.17-00.30.59:977][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.17-00.30.59:980][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.17-00.30.59:980][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.17-00.30.59:980][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.17-00.30.59:980][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.17-00.30.59:993][  0]LogNetVersion: Project 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1228489884)
+[2019.01.17-00.31.00:471][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.090417 seconds
+[2019.01.17-00.31.00:477][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.17-00.31.00:477][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.17-00.31.00:477][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.17-00.31.01:338][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.17-00.31.01:351][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.17-00.31.02:022][  0]SourceControl: Source control is disabled
+[2019.01.17-00.31.02:022][  0]SourceControl: Source control is disabled
+[2019.01.17-00.31.02:023][  0]SourceControl: Source control is disabled
+[2019.01.17-00.31.02:024][  0]SourceControl: Source control is disabled
+[2019.01.17-00.31.02:173][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.17-00.31.02:250][  0]LogOcInput: OculusInput pre-init called
+[2019.01.17-00.31.02:378][  0]LogEngine: Initializing Engine...
+[2019.01.17-00.31.02:379][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.17-00.31.02:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.17-00.31.02:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.17-00.31.02:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.17-00.31.02:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.17-00.31.02:604][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.17-00.31.02:614][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.17-00.31.02:643][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.17-00.31.02:729][  0]LogInit: FAudioDevice initialized.
+[2019.01.17-00.31.02:729][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.17-00.31.02:875][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/johna/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.17-00.31.02:880][  0]LogInit: Texture streaming: Enabled
+[2019.01.17-00.31.02:891][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.17-00.31.02:904][  0]LogInit: Transaction tracking system initialized
+[2019.01.17-00.31.02:919][  0]BlueprintLog: New page: Editor Load
+[2019.01.17-00.31.02:967][  0]LocalizationService: Localization service is disabled
+[2019.01.17-00.31.03:647][  0]LogFileCache: Scanning file cache for directory 'D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/' took 0.01s
+[2019.01.17-00.31.03:648][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.17-00.31.03:648][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.17-00.31.03:648][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.17-00.31.03:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.17-00.31.03:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.17-00.31.03:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.17-00.31.03:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.17-00.31.03:748][  0]SourceControl: Source control is disabled
+[2019.01.17-00.31.03:748][  0]Cmd: MAP LOAD FILE="../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Level/Auberge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.17-00.31.03:748][  0]LightingResults: New page: Lighting Build
+[2019.01.17-00.31.03:750][  0]MapCheck: New page: Map Check
+[2019.01.17-00.31.03:750][  0]LightingResults: New page: Lighting Build
+[2019.01.17-00.31.03:841][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/Vase/Vase'
+[2019.01.17-00.31.03:841][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/Vase/Vase' while loading ../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Blueprint/Interaction/Vase/Vase_DM.uasset.
+[2019.01.17-00.31.03:841][  0]LoadErrors: Error: /Game/Blueprint/Interaction/Vase/Vase_DM : Can't find file for asset. /Game/FirstPersonBP/Blueprints/Vase/Vase
+[2019.01.17-00.31.03:841][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/Vase/Vase'
+[2019.01.17-00.31.03:841][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/Vase/Vase' while loading ../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Blueprint/Interaction/Vase/Vase_DM.uasset.
+[2019.01.17-00.31.03:841][  0]LoadErrors: Error: /Game/Blueprint/Interaction/Vase/Vase_DM : Can't find file for asset. /Game/FirstPersonBP/Blueprints/Vase/Vase
+[2019.01.17-00.31.03:896][  0]LogLinker: Warning: Can't find file '/Game/Model/Chara/palette'
+[2019.01.17-00.31.03:896][  0]LogLinker: Warning: Can't find file for asset '/Game/Model/Chara/palette' while loading ../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Model/Chara/LongMan.uasset.
+[2019.01.17-00.31.03:896][  0]LoadErrors: Error: /Game/Model/Chara/LongMan : Can't find file for asset. /Game/Model/Chara/palette
+[2019.01.17-00.31.03:898][  0]LogLinker: Warning: Can't find file '/Game/Model/Chara/palette'
+[2019.01.17-00.31.03:898][  0]LogLinker: Warning: Can't find file for asset '/Game/Model/Chara/palette' while loading ../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Model/Chara/LongMan.uasset.
+[2019.01.17-00.31.03:898][  0]LoadErrors: Error: /Game/Model/Chara/LongMan : Can't find file for asset. /Game/Model/Chara/palette
+[2019.01.17-00.31.03:935][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/Vase/Vase'
+[2019.01.17-00.31.03:935][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Blueprints/Vase/Vase.Vase Referenced by Vase_DM
+[2019.01.17-00.31.03:935][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/Vase/Vase' while loading NULL.
+[2019.01.17-00.31.03:935][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Blueprints/Vase/Vase.Vase Referenced by Vase_DM
+[2019.01.17-00.31.03:968][  0]LogLinker: Warning: Can't find file '/Game/Model/Chara/palette'
+[2019.01.17-00.31.03:968][  0]LoadErrors: Failed to load /Game/Model/Chara/palette.palette Referenced by LongMan
+[2019.01.17-00.31.03:968][  0]LogLinker: Warning: Can't find file for asset '/Game/Model/Chara/palette' while loading NULL.
+[2019.01.17-00.31.03:968][  0]LoadErrors: Failed to load /Game/Model/Chara/palette.palette Referenced by LongMan
+[2019.01.17-00.31.04:130][  0]LogAIModule: Creating AISystem for world Auberge
+[2019.01.17-00.31.04:140][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.17-00.31.04:167][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.17-00.31.04:167][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2019.01.17-00.31.04:167][  0]LogFileHelpers: Loading map 'Auberge' took 0.419
+[2019.01.17-00.31.04:267][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.31.04:274][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.31.04:282][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.31.04:289][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.31.04:294][  0]LogCollectionManager: Loaded 0 collections in 0.000736 seconds
+[2019.01.17-00.31.04:332][  0]LogFileCache: Scanning file cache for directory 'D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Collections/' took 0.01s
+[2019.01.17-00.31.04:332][  0]LogFileCache: Scanning file cache for directory 'D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Developers/johna/Collections/' took 0.01s
+[2019.01.17-00.31.04:332][  0]LogFileCache: Scanning file cache for directory 'D:/By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Collections/' took 0.01s
+[2019.01.17-00.31.04:332][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.17-00.31.04:340][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2660 classes and 625 folders.
+[2019.01.17-00.31.04:345][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.17-00.31.04:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:349][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:349][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:353][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:354][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:354][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:355][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:355][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:355][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:356][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:356][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:356][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.17-00.31.04:379][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.17-00.31.04:383][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.17-00.31.04:448][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.17-00.31.04:453][  0]LogSlate: Took 0.000524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.17-00.31.04:462][  0]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.17-00.31.04:541][  0]LogRenderer: Reallocating scene render targets to support 1116x540 Format 10 NumSamples 1 (Frame:1).
+[2019.01.17-00.31.04:704][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.01.17-00.31.04:704][  0]LogLoad: (Engine Initialization) Total time: 9.31 seconds
+[2019.01.17-00.31.04:704][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.17-00.31.04:725][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.17-00.31.04:792][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.17-00.31.04:796][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.17-00.31.04:833][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.17-00.31.04:873][  1]LogAssetRegistry: Asset discovery search completed in 5.3579 seconds
+[2019.01.17-00.31.04:874][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.17-00.31.04:874][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2019.01.17-00.31.08:940][185]LogSlate: Window 'Message Log' being destroyed
+[2019.01.17-00.31.08:946][185]LogSlate: Window 'Message Log' being destroyed
+[2019.01.17-00.32.25:601][780]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.01.17-00.32.26:560][835]Cmd: DELETE
+[2019.01.17-00.32.26:560][835]Cmd: ACTOR DELETE
+[2019.01.17-00.32.26:566][835]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2019.01.17-00.32.26:589][835]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.01.17-00.32.27:998][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.32.50:194][248]Cmd: DELETE
+[2019.01.17-00.32.50:194][248]Cmd: ACTOR DELETE
+[2019.01.17-00.32.50:197][248]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2019.01.17-00.32.50:219][248]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.01.17-00.32.50:985][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.17-00.32.51:930][351]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.17-00.32.52:909][351]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.01.17-00.32.53:030][353]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Project
+[2019.01.17-00.32.53:030][353]LogTemp: CWD: D:\Engines\Unreal\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.17-00.32.53:030][353]LogTemp: Initial Dir: D:\Engines\Unreal\UE_4.21
+[2019.01.17-00.32.53:030][353]LogTemp: Env CWD: D:\Engines\Unreal\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.17-00.32.53:032][353]LogTemp: BranchPath = DESKTOP-MGB6515/D/Engines/Unreal/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-MGB6515/D/Engines/Unreal/UE_4.21/Engine/Binaries
+[2019.01.17-00.32.53:043][353]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\johna\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.01.17-00.33.55:587][ 74]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.17-00.35.37:794][172]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.17-00.35.37:843][172]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.17-00.36.10:415][120]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.17-00.36.10:421][120]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.17-00.36.13:371][296]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.01.17-00.36.25:813][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.36.43:581][ 99]Cmd: DELETE
+[2019.01.17-00.36.43:581][ 99]Cmd: ACTOR DELETE
+[2019.01.17-00.36.43:583][ 99]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2019.01.17-00.36.43:606][ 99]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.01.17-00.36.49:316][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.37.01:885][191]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.17-00.37.03:462][284]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.17-00.37.09:562][646]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.17-00.37.11:844][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.17-00.37.57:269][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.17-00.38.23:942][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.38.24:065][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Auberge" FILE="../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Level/Auberge.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.17-00.38.24:216][ 94]LogSavePackage: Moving '../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/AubergeD195C9064E424BD6E2A97E89E5E3C043.tmp' to '../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Level/Auberge.umap'
+[2019.01.17-00.38.24:243][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Auberge_BuiltData" FILE="../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Level/Auberge_BuiltData.uasset" SILENT=true
+[2019.01.17-00.38.24:258][ 94]LogSavePackage: Moving '../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Auberge_BuiltData412F485143A2D1BF16DA7B85C807B9E2.tmp' to '../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Level/Auberge_BuiltData.uasset'
+[2019.01.17-00.38.43:150][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.38.43:234][227]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.17-00.38.43:246][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.38.43:246][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.17-00.38.43:246][227]PIE: New page: PIE session: Auberge (Jan 16, 2019, 2:38:43 PM)
+[2019.01.17-00.38.43:259][227]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Auberge
+[2019.01.17-00.38.43:264][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004998s)
+[2019.01.17-00.38.43:265][227]LogAIModule: Creating AISystem for world Auberge
+[2019.01.17-00.38.43:266][227]LogPlayLevel: PIE: World Init took: (0.001223s)
+[2019.01.17-00.38.43:266][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Auberge.Auberge to /Game/Level/UEDPIE_0_Auberge.Auberge (0.006572s)
+[2019.01.17-00.38.43:306][227]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.17-00.38.43:385][227]LogInit: FAudioDevice initialized.
+[2019.01.17-00.38.43:486][227]LogLoad: Game class is 'AubergeSoloMode_C'
+[2019.01.17-00.38.43:490][227]LogWorld: Bringing World /Game/Level/UEDPIE_0_Auberge.Auberge up for play (max tick rate 60) at 2019.01.16-19.38.43
+[2019.01.17-00.38.43:490][227]LogWorld: Bringing up level for play took: 0.002218
+[2019.01.17-00.38.43:506][227]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.01.17-00.38.43:506][227]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.38.43:506][227]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.38.43:506][227]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.38.43:507][227]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] BunnyGirlv2
+[2019.01.17-00.38.43:508][227]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] palette
+[2019.01.17-00.38.43:508][227]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.38.43:508][227]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Auberge 0.511
+[2019.01.17-00.38.43:508][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.38.55:361][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.38.55:361][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.38.55:395][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.17-00.38.55:395][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.38.55:421][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.38.55:471][933]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.01.17-00.38.59:612][181]LogEditorViewport: Clicking on Actor (LMB): BreakableVase_C (BreakableVase)
+[2019.01.17-00.39.11:063][863]LogEditorViewport: Clicking on Actor (LMB): BreakableVase_C (BreakableVase2)
+[2019.01.17-00.39.16:265][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.39.21:042][457]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.17-00.39.21:072][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.17-00.39.21:890][505]LogEditorViewport: Clicking on Actor (LMB): BreakableVase_C (BreakableVase2)
+[2019.01.17-00.39.31:979][106]LogEditorViewport: Clicking on Actor (LMB): BreakableVase_C (BreakableVase)
+[2019.01.17-00.39.38:023][464]Cmd: DELETE
+[2019.01.17-00.39.38:024][464]Cmd: ACTOR DELETE
+[2019.01.17-00.39.38:027][464]LogEditorActor: Deleted Actor: BreakableVase_C
+[2019.01.17-00.39.38:028][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.17-00.39.38:052][464]LogEditorActor: Deleted 2 Actors (0.028 secs)
+[2019.01.17-00.39.40:126][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fireplace)
+[2019.01.17-00.39.56:345][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.17-00.40.04:378][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fireplace)
+[2019.01.17-00.40.07:254][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.17-00.40.52:272][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.40.52:337][892]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.17-00.40.52:349][892]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.40.52:349][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.17-00.40.52:350][892]PIE: New page: PIE session: Auberge (Jan 16, 2019, 2:40:52 PM)
+[2019.01.17-00.40.52:350][892]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Auberge
+[2019.01.17-00.40.52:354][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004530s)
+[2019.01.17-00.40.52:355][892]LogAIModule: Creating AISystem for world Auberge
+[2019.01.17-00.40.52:356][892]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2019.01.17-00.40.52:356][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Auberge.Auberge to /Game/Level/UEDPIE_0_Auberge.Auberge (0.005848s)
+[2019.01.17-00.40.52:399][892]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.17-00.40.52:474][892]LogInit: FAudioDevice initialized.
+[2019.01.17-00.40.52:505][892]LogLoad: Game class is 'AubergeSoloMode_C'
+[2019.01.17-00.40.52:508][892]LogWorld: Bringing World /Game/Level/UEDPIE_0_Auberge.Auberge up for play (max tick rate 60) at 2019.01.16-19.40.52
+[2019.01.17-00.40.52:508][892]LogWorld: Bringing up level for play took: 0.001813
+[2019.01.17-00.40.52:521][892]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.40.52:521][892]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.40.52:521][892]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.40.52:521][892]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] BunnyGirlv2
+[2019.01.17-00.40.52:522][892]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] palette2
+[2019.01.17-00.40.52:522][892]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.40.52:522][892]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Auberge -0.474
+[2019.01.17-00.40.52:522][892]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.40.57:841][207]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.40.57:841][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.40.57:875][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.17-00.40.57:875][207]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.40.57:901][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.40.57:951][210]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.01.17-00.41.03:237][527]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.01.17-00.41.28:260][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.41.28:454][ 37]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/Player/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.17-00.41.28:902][ 37]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.01.17-00.41.29:652][ 37]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.17-00.41.29:728][ 38]LogSlate: Took 0.000490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.17-00.41.31:728][149]LogRenderer: Reallocating scene render targets to support 1116x644 Format 10 NumSamples 1 (Frame:1).
+[2019.01.17-00.41.34:443][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.41.44:106][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.41.44:172][883]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.17-00.41.44:807][898]LogSavePackage: Moving '../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/FirstPersonCharacterCF52EF3A4DB1DD6354F021915DEE9B84.tmp' to '../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Blueprint/Player/FirstPersonCharacter.uasset'
+[2019.01.17-00.42.08:185][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.42.08:266][304]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.17-00.42.08:272][304]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.17-00.42.09:264][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.42.09:381][364]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.17-00.42.09:392][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.42.09:392][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.17-00.42.09:392][364]PIE: New page: PIE session: Auberge (Jan 16, 2019, 2:42:09 PM)
+[2019.01.17-00.42.09:392][364]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Auberge
+[2019.01.17-00.42.09:397][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004918s)
+[2019.01.17-00.42.09:398][364]LogAIModule: Creating AISystem for world Auberge
+[2019.01.17-00.42.09:398][364]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2019.01.17-00.42.09:398][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Auberge.Auberge to /Game/Level/UEDPIE_0_Auberge.Auberge (0.006269s)
+[2019.01.17-00.42.09:450][364]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.17-00.42.09:524][364]LogInit: FAudioDevice initialized.
+[2019.01.17-00.42.09:555][364]LogLoad: Game class is 'AubergeSoloMode_C'
+[2019.01.17-00.42.09:557][364]LogWorld: Bringing World /Game/Level/UEDPIE_0_Auberge.Auberge up for play (max tick rate 60) at 2019.01.16-19.42.09
+[2019.01.17-00.42.09:557][364]LogWorld: Bringing up level for play took: 0.001576
+[2019.01.17-00.42.09:569][364]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.42.09:569][364]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.42.09:569][364]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.42.09:570][364]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] BunnyGirlv2
+[2019.01.17-00.42.09:571][364]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] palette2
+[2019.01.17-00.42.09:571][364]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.42.09:571][364]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Auberge 0.575
+[2019.01.17-00.42.09:571][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.42.18:690][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.42.18:690][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.42.18:727][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.17-00.42.18:727][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.42.18:755][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.42.18:790][906]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.01.17-00.42.23:692][200]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.17-00.42.24:152][226]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.01.17-00.42.34:793][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.42.34:967][871]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/Player/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.17-00.42.52:315][882]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.17-00.42.54:669][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.42.54:752][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.17-00.42.54:766][ 10]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.42.54:766][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.17-00.42.54:766][ 10]PIE: New page: PIE session: Auberge (Jan 16, 2019, 2:42:54 PM)
+[2019.01.17-00.42.54:766][ 10]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Auberge
+[2019.01.17-00.42.54:772][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005477s)
+[2019.01.17-00.42.54:773][ 10]LogAIModule: Creating AISystem for world Auberge
+[2019.01.17-00.42.54:773][ 10]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2019.01.17-00.42.54:773][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Auberge.Auberge to /Game/Level/UEDPIE_0_Auberge.Auberge (0.007013s)
+[2019.01.17-00.42.54:820][ 10]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.17-00.42.54:892][ 10]LogInit: FAudioDevice initialized.
+[2019.01.17-00.42.54:927][ 10]LogLoad: Game class is 'AubergeSoloMode_C'
+[2019.01.17-00.42.54:929][ 10]LogWorld: Bringing World /Game/Level/UEDPIE_0_Auberge.Auberge up for play (max tick rate 60) at 2019.01.16-19.42.54
+[2019.01.17-00.42.54:930][ 10]LogWorld: Bringing up level for play took: 0.001836
+[2019.01.17-00.42.54:943][ 10]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.42.54:943][ 10]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.42.54:943][ 10]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.42.54:943][ 10]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] BunnyGirlv2
+[2019.01.17-00.42.54:944][ 10]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] palette
+[2019.01.17-00.42.54:944][ 10]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.42.54:944][ 10]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Auberge -0.052
+[2019.01.17-00.42.54:944][ 10]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.43.00:386][333]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.43.00:387][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.43.00:422][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.17-00.43.00:422][333]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.43.00:455][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.43.00:497][334]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.17-00.43.04:370][565]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.17-00.43.09:703][876]MapCheck: New page: Map Check
+[2019.01.17-00.43.09:719][876]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.17-00.43.09:767][876]LightingResults: New page: Lighting Build - Jan 16, 2019, 2:43:09 PM
+[2019.01.17-00.43.09:895][876]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-00.43.10:102][876]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-00.43.10:117][876]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-00.43.11:236][876]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-00.43.11:236][876]LogSwarmInterface: [TryOpenConnection] Local Process ID is 39096
+[2019.01.17-00.43.13:731][876]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.17-00.43.13:731][876]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-00.43.13:731][876]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-00.43.13:731][876]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-00.43.13:731][876]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-00.43.13:731][876]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-00.43.14:275][876]LogEditorBuildUtils: Build time 0:04
+[2019.01.17-00.43.14:288][876]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.01.17-00.43.14:302][876]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.01.17-00.43.14:316][876]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.17-00.43.14:321][877]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.17-00.43.14:336][877]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer palette, compiling. 
+[2019.01.17-00.43.14:351][877]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.17-00.43.14:351][877]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer palette, compiling. 
+[2019.01.17-00.43.14:364][877]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.17-00.43.14:383][878]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BlockOut, compiling. 
+[2019.01.17-00.43.14:397][878]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BlockOut, compiling. 
+[2019.01.17-00.43.14:432][879]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-00.43.14:447][879]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-00.43.16:401][880]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.17-00.43.19:171][983]Job is a success!
+[2019.01.17-00.43.19:197][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.17-00.43.19:229][984]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2019.01.17-00.43.19:229][984]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.17-00.43.19:229][984]LogVolumetricLightmapImport:      BrickData 15x5x5 = 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.01.17-00.43.19:229][984]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.17-00.43.19:229][984]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2019.01.17-00.43.19:230][984]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2019.01.17-00.43.19:230][984]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2019.01.17-00.43.19:292][984]LogMaterial: Warning: Material /Game/Model/Map/palette.palette needed to have new flag set bUsedWithStaticLighting !
+[2019.01.17-00.43.19:294][984]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.01.17-00.43.19:374][984]LogMaterial: Warning: Material /Game/Model/Map/BlockOut.BlockOut needed to have new flag set bUsedWithStaticLighting !
+[2019.01.17-00.43.19:376][984]LogMaterial: Display: Missing cached shader map for material BlockOut, compiling. 
+[2019.01.17-00.43.19:395][984]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.01.17-00.43.19:395][984]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.01.17-00.43.19:395][984]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.01.17-00.43.19:395][984]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.17-00.43.19:580][984]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.01.17-00.43.19:580][984]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.01.17-00.43.19:580][984]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.01.17-00.43.19:580][984]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.01.17-00.43.19:580][984]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.01.17-00.43.19:580][984]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X64)
+[2019.01.17-00.43.19:624][984]Lightmass on DESKTOP-MGB6515: 1.88 sec total, 214 ms importing, 85 ms setup, 504 ms photons, 1.05 sec processing, 0 ms extra exporting [37/37 mappings]. Threads: 7.25 sec total, 1.47 sec processing.
+[2019.01.17-00.43.19:682][984]LogStaticLightingSystem: Illumination: 9.89 sec (143 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2019.01.17-00.43.19:682][984]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.01.17-00.43.19:682][984]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.01.17-00.43.20:732][984]DumpUnbuiltLightIteractions
+[2019.01.17-00.43.20:732][984]Lights with unbuilt interactions: 0
+[2019.01.17-00.43.20:732][984]
+[2019.01.17-00.43.20:732][984]Primitives with unbuilt interactions: 0
+[2019.01.17-00.43.20:807][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.17-00.43.26:049][984]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.01.17-00.43.26:049][984]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.17-00.43.26:049][984]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.17-00.43.26:049][984]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.17-00.43.26:049][984]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.17-00.43.26:049][984]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.17-00.43.26:161][985]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-00.43.26:161][985]MapCheck: New page: Auberge - Jan 16, 2019, 2:43:26 PM
+[2019.01.17-00.43.26:211][985]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.443ms to complete.
+[2019.01.17-00.43.36:709][612]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.01.17-00.43.50:149][414]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.01.17-00.43.55:840][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.43.59:093][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Auberge" FILE="../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Level/Auberge.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.17-00.43.59:290][947]LogSavePackage: Moving '../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Auberge76AD37D94AC5D100629EDC8957C921E7.tmp' to '../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Level/Auberge.umap'
+[2019.01.17-00.43.59:318][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Auberge_BuiltData" FILE="../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Level/Auberge_BuiltData.uasset" SILENT=true
+[2019.01.17-00.43.59:358][947]LogSavePackage: Moving '../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Auberge_BuiltData35813F55433D1CAC2CD0BB8E56DDB438.tmp' to '../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Level/Auberge_BuiltData.uasset'
+[2019.01.17-00.44.01:198][ 55]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.01.17-00.45.37:733][836]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.01.17-00.45.43:070][154]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source2)
+[2019.01.17-00.45.51:250][641]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.01.17-00.46.05:781][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.17-00.46.12:875][934]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.17-00.46.16:707][163]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.17-00.46.20:134][368]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.17-00.46.25:525][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.47.19:903][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.49.45:050][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chaise6)
+[2019.01.17-00.49.49:916][936]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.01.17-00.50.18:640][652]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.17-00.50.31:570][427]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.17-00.50.44:437][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.50.49:004][472]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.17-00.50.49:021][472]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.50.49:021][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.17-00.50.49:021][472]PIE: New page: PIE session: Auberge (Jan 16, 2019, 2:50:49 PM)
+[2019.01.17-00.50.49:021][472]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Auberge
+[2019.01.17-00.50.49:027][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005675s)
+[2019.01.17-00.50.49:028][472]LogAIModule: Creating AISystem for world Auberge
+[2019.01.17-00.50.49:028][472]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2019.01.17-00.50.49:028][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Auberge.Auberge to /Game/Level/UEDPIE_0_Auberge.Auberge (0.007253s)
+[2019.01.17-00.50.49:076][472]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.17-00.50.49:154][472]LogInit: FAudioDevice initialized.
+[2019.01.17-00.50.49:187][472]LogLoad: Game class is 'AubergeSoloMode_C'
+[2019.01.17-00.50.49:190][472]LogWorld: Bringing World /Game/Level/UEDPIE_0_Auberge.Auberge up for play (max tick rate 60) at 2019.01.16-19.50.49
+[2019.01.17-00.50.49:190][472]LogWorld: Bringing up level for play took: 0.001894
+[2019.01.17-00.50.49:202][472]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.50.49:203][472]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.50.49:203][472]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.50.49:203][472]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] BunnyGirlv2
+[2019.01.17-00.50.49:204][472]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] palette
+[2019.01.17-00.50.49:204][472]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.50.49:204][472]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Auberge 0.207
+[2019.01.17-00.50.49:204][472]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.50.52:604][667]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.50.52:605][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.50.52:644][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.17-00.50.52:644][667]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.50.52:678][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.50.52:727][668]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.17-00.50.53:766][727]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.01.17-00.50.54:866][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.51.13:545][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.51.13:612][913]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.17-00.51.13:626][913]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.51.13:626][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.17-00.51.13:626][913]PIE: New page: PIE session: Auberge (Jan 16, 2019, 2:51:13 PM)
+[2019.01.17-00.51.13:626][913]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Auberge
+[2019.01.17-00.51.13:632][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005164s)
+[2019.01.17-00.51.13:632][913]LogAIModule: Creating AISystem for world Auberge
+[2019.01.17-00.51.13:633][913]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2019.01.17-00.51.13:633][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Auberge.Auberge to /Game/Level/UEDPIE_0_Auberge.Auberge (0.006290s)
+[2019.01.17-00.51.13:678][913]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.17-00.51.13:755][913]LogInit: FAudioDevice initialized.
+[2019.01.17-00.51.13:787][913]LogLoad: Game class is 'AubergeSoloMode_C'
+[2019.01.17-00.51.13:789][913]LogWorld: Bringing World /Game/Level/UEDPIE_0_Auberge.Auberge up for play (max tick rate 60) at 2019.01.16-19.51.13
+[2019.01.17-00.51.13:790][913]LogWorld: Bringing up level for play took: 0.001993
+[2019.01.17-00.51.13:803][913]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.51.13:803][913]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.51.13:803][913]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.51.13:803][913]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] BunnyGirlv2
+[2019.01.17-00.51.13:804][913]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] palette
+[2019.01.17-00.51.13:804][913]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.51.13:804][913]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Auberge 0.807
+[2019.01.17-00.51.13:804][913]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.51.15:749][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.51.15:750][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.51.15:785][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.17-00.51.15:785][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.51.15:816][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.51.15:868][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.17-00.51.17:490][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.51.23:242][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.51.25:057][567]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.17-00.51.25:604][581]LogSavePackage: Moving '../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/FirstPersonCharacter202540864B0B38D56C74B08ABD4E5B6A.tmp' to '../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Blueprint/Player/FirstPersonCharacter.uasset'
+[2019.01.17-00.51.27:593][700]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.17-00.51.27:606][700]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.51.27:607][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.17-00.51.27:607][700]PIE: New page: PIE session: Auberge (Jan 16, 2019, 2:51:27 PM)
+[2019.01.17-00.51.27:607][700]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Auberge
+[2019.01.17-00.51.27:612][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004868s)
+[2019.01.17-00.51.27:613][700]LogAIModule: Creating AISystem for world Auberge
+[2019.01.17-00.51.27:613][700]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2019.01.17-00.51.27:613][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Auberge.Auberge to /Game/Level/UEDPIE_0_Auberge.Auberge (0.006141s)
+[2019.01.17-00.51.27:659][700]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.17-00.51.27:734][700]LogInit: FAudioDevice initialized.
+[2019.01.17-00.51.27:767][700]LogLoad: Game class is 'AubergeSoloMode_C'
+[2019.01.17-00.51.27:770][700]LogWorld: Bringing World /Game/Level/UEDPIE_0_Auberge.Auberge up for play (max tick rate 60) at 2019.01.16-19.51.27
+[2019.01.17-00.51.27:770][700]LogWorld: Bringing up level for play took: 0.002297
+[2019.01.17-00.51.27:782][700]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.51.27:782][700]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.51.27:783][700]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.51.27:783][700]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] OldMan
+[2019.01.17-00.51.27:784][700]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] palette2
+[2019.01.17-00.51.27:784][700]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.51.27:784][700]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Auberge 0.788
+[2019.01.17-00.51.27:784][700]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.51.47:284][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.51.47:285][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.51.47:319][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.17-00.51.47:319][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.51.47:352][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.51.47:404][870]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.17-00.51.50:398][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.51.50:465][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.17-00.51.50:479][ 49]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.51.50:479][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.17-00.51.50:479][ 49]PIE: New page: PIE session: Auberge (Jan 16, 2019, 2:51:50 PM)
+[2019.01.17-00.51.50:479][ 49]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Auberge
+[2019.01.17-00.51.50:484][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004858s)
+[2019.01.17-00.51.50:485][ 49]LogAIModule: Creating AISystem for world Auberge
+[2019.01.17-00.51.50:485][ 49]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2019.01.17-00.51.50:485][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Auberge.Auberge to /Game/Level/UEDPIE_0_Auberge.Auberge (0.006006s)
+[2019.01.17-00.51.50:531][ 49]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.17-00.51.50:605][ 49]LogInit: FAudioDevice initialized.
+[2019.01.17-00.51.50:637][ 49]LogLoad: Game class is 'AubergeSoloMode_C'
+[2019.01.17-00.51.50:640][ 49]LogWorld: Bringing World /Game/Level/UEDPIE_0_Auberge.Auberge up for play (max tick rate 60) at 2019.01.16-19.51.50
+[2019.01.17-00.51.50:640][ 49]LogWorld: Bringing up level for play took: 0.002055
+[2019.01.17-00.51.50:653][ 49]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.51.50:653][ 49]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.51.50:653][ 49]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.51.50:654][ 49]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] BunnyGirlv2
+[2019.01.17-00.51.50:654][ 49]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] palette
+[2019.01.17-00.51.50:654][ 49]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.51.50:654][ 49]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Auberge -0.342
+[2019.01.17-00.51.50:654][ 49]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.51.58:116][492]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.51.58:116][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.51.58:153][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.17-00.51.58:153][492]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.51.58:187][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.51.58:237][493]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.01.17-00.52.01:791][698]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.01.17-00.52.04:763][874]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source2)
+[2019.01.17-00.52.08:648][105]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.17-00.52.20:314][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.52.26:794][193]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.17-00.52.27:544][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.52.27:626][243]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.17-00.52.27:641][243]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.52.27:641][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.17-00.52.27:641][243]PIE: New page: PIE session: Auberge (Jan 16, 2019, 2:52:27 PM)
+[2019.01.17-00.52.27:641][243]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Auberge
+[2019.01.17-00.52.27:647][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005240s)
+[2019.01.17-00.52.27:648][243]LogAIModule: Creating AISystem for world Auberge
+[2019.01.17-00.52.27:648][243]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2019.01.17-00.52.27:648][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Auberge.Auberge to /Game/Level/UEDPIE_0_Auberge.Auberge (0.006412s)
+[2019.01.17-00.52.27:694][243]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.17-00.52.27:772][243]LogInit: FAudioDevice initialized.
+[2019.01.17-00.52.27:802][243]LogLoad: Game class is 'AubergeSoloMode_C'
+[2019.01.17-00.52.27:804][243]LogWorld: Bringing World /Game/Level/UEDPIE_0_Auberge.Auberge up for play (max tick rate 60) at 2019.01.16-19.52.27
+[2019.01.17-00.52.27:804][243]LogWorld: Bringing up level for play took: 0.001725
+[2019.01.17-00.52.27:817][243]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.52.27:817][243]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.52.27:817][243]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.52.27:818][243]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] OldMan
+[2019.01.17-00.52.27:818][243]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] palette2
+[2019.01.17-00.52.27:818][243]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.52.27:818][243]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Auberge 0.822
+[2019.01.17-00.52.27:818][243]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.52.29:373][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.52.29:374][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.52.29:411][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.17-00.52.29:411][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.52.29:442][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.52.29:472][330]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.01.17-00.52.34:457][625]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source2)
+[2019.01.17-00.52.39:086][901]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.01.17-00.52.46:428][338]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source2)
+[2019.01.17-00.52.47:813][419]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.17-00.52.55:723][893]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.17-00.52.58:457][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.53.38:068][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.53.52:030][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.54.00:554][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.54.00:654][768]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.17-00.54.00:668][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.54.00:668][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.17-00.54.00:668][768]PIE: New page: PIE session: Auberge (Jan 16, 2019, 2:54:00 PM)
+[2019.01.17-00.54.00:668][768]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Auberge
+[2019.01.17-00.54.00:673][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005021s)
+[2019.01.17-00.54.00:674][768]LogAIModule: Creating AISystem for world Auberge
+[2019.01.17-00.54.00:675][768]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2019.01.17-00.54.00:675][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Auberge.Auberge to /Game/Level/UEDPIE_0_Auberge.Auberge (0.006395s)
+[2019.01.17-00.54.00:720][768]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.17-00.54.00:798][768]LogInit: FAudioDevice initialized.
+[2019.01.17-00.54.00:832][768]LogLoad: Game class is 'AubergeSoloMode_C'
+[2019.01.17-00.54.00:835][768]LogWorld: Bringing World /Game/Level/UEDPIE_0_Auberge.Auberge up for play (max tick rate 60) at 2019.01.16-19.54.00
+[2019.01.17-00.54.00:835][768]LogWorld: Bringing up level for play took: 0.001833
+[2019.01.17-00.54.00:847][768]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.54.00:848][768]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.17-00.54.00:848][768]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.54.00:849][768]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongMan
+[2019.01.17-00.54.00:849][768]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] palette
+[2019.01.17-00.54.00:849][768]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.17-00.54.00:849][768]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Auberge -0.147
+[2019.01.17-00.54.00:850][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.54.11:416][395]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.54.11:416][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.54.11:454][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.17-00.54.11:454][395]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Auberge.Auberge:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge' with GeneratedClass '/Game/Level/Auberge.Auberge_C' with ClassGeneratedBy '/Game/Level/Auberge.Auberge:PersistentLevel.Auberge'
+[2019.01.17-00.54.11:486][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.17-00.54.11:535][396]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.01.17-00.54.25:183][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.17-00.54.25:303][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Auberge" FILE="../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Level/Auberge.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.17-00.54.25:503][216]LogSavePackage: Moving '../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Auberge66E433884B08F68EA2A5D3AE50703EBB.tmp' to '../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Level/Auberge.umap'
+[2019.01.17-00.54.25:530][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Auberge_BuiltData" FILE="../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Level/Auberge_BuiltData.uasset" SILENT=true
+[2019.01.17-00.54.25:570][216]LogSavePackage: Moving '../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Saved/Auberge_BuiltDataE0ABF517460FB292C1AA11AEC2F89C10.tmp' to '../../../../../../By_Me/Projects/IntercoSeason2/GameJamS2/Project/Content/Level/Auberge_BuiltData.uasset'
